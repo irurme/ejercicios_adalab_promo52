@@ -22,3 +22,4 @@ Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de un
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 1. Nuevo título
+#Nuevo título
